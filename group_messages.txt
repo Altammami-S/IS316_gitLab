@@ -1,0 +1,4 @@
+group_messages.txt
+Group 03 - IS316
+
+Sara: Git helps us track changes in our Data Science project.
